@@ -1,0 +1,27 @@
+[
+    {
+        "product_name": "Kokis",
+        "product_Id": "A1",
+        "price": "20.00",
+        "availability": "Yes",
+        "description": " this is kokis description",
+        "ratings": 4.5,
+        "category":"Kithul_Products",
+        "numOfReviews": 20,
+        "reviews": [],
+        "images":[]
+
+    },
+    {
+    "product_name": "Kaum",
+    "product_Id": "A2",
+    "price": "25.00",
+    "availability": "Yes",
+    "description": " this is Kaum description",
+    "ratings": 4.6,
+    "category":"Kithul_Products",
+    "numOfReviews": 20,
+    "reviews": [],
+    "images":[]
+    }
+]
